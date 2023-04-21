@@ -12,3 +12,5 @@ ARM-STM32 MCU Projects with EmbeddedC
 5- ButtonUpCounter1Digit7SegmentCC_IAR
 
 6- UpCounter2DigitsMultiplex7SegmentCC_IAR
+
+7- ButtonUpCounter2DigitsMultiplex7SegmentCC_IAR
