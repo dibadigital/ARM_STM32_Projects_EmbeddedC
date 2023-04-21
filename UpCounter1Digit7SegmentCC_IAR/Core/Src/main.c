@@ -95,7 +95,6 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-    
     HAL_GPIO_WritePin(GPIOA, 0xFF<<4, GPIO_PIN_RESET);
     HAL_GPIO_WritePin(GPIOA, SevenSegmentCC[i]<<4, GPIO_PIN_SET);
     HAL_Delay(1000);
