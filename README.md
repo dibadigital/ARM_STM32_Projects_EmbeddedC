@@ -8,3 +8,5 @@ ARM-STM32 MCU Projects with EmbeddedC
 3- PLLBlinkingLED_IAR
 
 4- UpCounter1Digit7SegmentCC_IAR
+
+5- ButtonUpCounter1Digit7SegmentCC_IAR
