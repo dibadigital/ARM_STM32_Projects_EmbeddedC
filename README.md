@@ -18,3 +18,5 @@ ARM-STM32 MCU Projects with EmbeddedC
 8- String8Wires2X16CharacterLCD_IAR
 
 9- ButtonExternalInterrupt2X16CharacterLCD_IAR
+
+10- POTReadADC_IAR
