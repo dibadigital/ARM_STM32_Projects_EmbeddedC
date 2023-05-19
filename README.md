@@ -19,8 +19,8 @@ ARM-STM32 MCU Projects with EmbeddedC
 
 9- ButtonExternalInterrupt2X16CharacterLCD_IAR
 
-10- POTReadADC_IAR
+10- POTReadADC2X16CharacterLCD_IAR
 
-11- TIM1TIM2_IAR
+11- TIM1TIM22X16CharacterLCD_IAR
 
-12- CNT1_IAR
+12- CNT12X16CharacterLCD_IAR
