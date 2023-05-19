@@ -22,3 +22,5 @@ ARM-STM32 MCU Projects with EmbeddedC
 10- POTReadADC_IAR
 
 11- TIM1TIM2_IAR
+
+12- CNT1_IAR
