@@ -16,3 +16,5 @@ ARM-STM32 MCU Projects with EmbeddedC
 7- ButtonUpCounter2DigitsMultiplex7SegmentCC_IAR
 
 8- String8Wires2X16CharacterLCD_IAR
+
+9- ButtonExternalInterrupt2X16CharacterLCD_IAR
