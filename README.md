@@ -26,3 +26,5 @@ ARM-STM32 MCU Projects with EmbeddedC
 12- ButtonsTIM1LED2X16CharacterLCD_IAR
 
 13- CNT12X16CharacterLCD_IAR
+
+14- PWM1CH1LED2X16CharacterLCD_IAR
