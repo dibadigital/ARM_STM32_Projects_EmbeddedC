@@ -17,16 +17,18 @@ ARM-STM32 MCU Projects with EmbeddedC
 
 8- String8Wires2X16CharacterLCD_IAR
 
-9- ButtonExternalInterrupt2X16CharacterLCD_IAR
+9- String4Wires2X16CharacterLCD_IAR
 
-10- POTReadADC2X16CharacterLCD_IAR
+10- ButtonExternalInterrupt2X16CharacterLCD_IAR
 
-11- TIM1TIM22X16CharacterLCD_IAR
+11- POTReadADC2X16CharacterLCD_IAR
 
-12- ButtonsTIM1LED2X16CharacterLCD_IAR
+12- TIM1TIM22X16CharacterLCD_IAR
 
-13- CNT12X16CharacterLCD_IAR
+13- ButtonsTIM1LED2X16CharacterLCD_IAR
 
-14- PWM1CH1LED2X16CharacterLCD_IAR
+14- CNT12X16CharacterLCD_IAR
+
+15- PWM1CH1LED2X16CharacterLCD_IAR
 
 15- RTCDigitalClock2X16CharacterLCD_IAR
