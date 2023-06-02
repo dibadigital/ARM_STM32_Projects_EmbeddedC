@@ -31,4 +31,7 @@ ARM-STM32 MCU Projects with EmbeddedC
 
 15- PWM1CH1LED2X16CharacterLCD_IAR
 
-15- RTCDigitalClock2X16CharacterLCD_IAR
+16- RTCDigitalClock2X16CharacterLCD_IAR
+
+17- SendDataUART12X16CharacterLCD_IAR
+
