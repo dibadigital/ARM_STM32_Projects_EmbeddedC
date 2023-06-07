@@ -35,3 +35,5 @@ ARM-STM32 MCU Projects with EmbeddedC
 
 17- SendDataUART12X16CharacterLCD_IAR
 
+18- ReceiveDataUART12X16CharacterLCD_IAR
+
