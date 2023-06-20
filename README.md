@@ -38,3 +38,5 @@ ARM-STM32 MCU Projects with EmbeddedC
 18- ReceiveDataUART12X16CharacterLCD_IAR
 
 19- MasterSendDataToShiftRegisterSPI1_IAR
+
+20- WriteReadI2C1EEPROMSendDataUART1_IAR
