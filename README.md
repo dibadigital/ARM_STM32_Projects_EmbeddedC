@@ -40,3 +40,5 @@ ARM-STM32 MCU Projects with EmbeddedC
 19- MasterSendDataToShiftRegisterSPI1_IAR
 
 20- WriteReadI2C1EEPROMSendDataUART1_IAR
+
+21- WatchdogTimerUpCounter2X16CharacterLCD_IAR
