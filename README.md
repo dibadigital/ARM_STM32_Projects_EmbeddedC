@@ -42,3 +42,5 @@ ARM-STM32 MCU Projects with EmbeddedC
 20- WriteReadI2C1EEPROMSendDataUART1_IAR
 
 21- WatchdogTimerUpCounter2X16CharacterLCD_IAR
+
+22- DMAUART1_IAR
