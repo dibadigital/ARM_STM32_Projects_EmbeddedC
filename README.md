@@ -66,3 +66,5 @@ ARM-STM32 MCU Projects with EmbeddedC
 32- NumberOfON_I2C_ExtEEPROM_KEIL
 
 33- DAC_KEIL
+
+34- DAC_PlayMusic_KEIL
