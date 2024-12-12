@@ -68,3 +68,5 @@ ARM-STM32 MCU Projects with EmbeddedC
 33- DAC_KEIL
 
 34- DAC_PlayMusic_KEIL
+
+35- DAC_PlayMusic_16000_KEIL
