@@ -51,3 +51,4 @@ ARM-STM32 MCU Projects with EmbeddedC
 
 25- LinkerScript_KEIL
 
+26- LinkerScript_EEPROMFLASH_KEIL
