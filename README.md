@@ -74,3 +74,5 @@ ARM-STM32 MCU Projects with EmbeddedC
 36- DAC_SinWavGen_KEIL
 
 37- GPS_DAC_Call2Prayer_KEIL
+
+38- GPS_DAC_Call2Prayer_RTC_KEIL
