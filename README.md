@@ -47,4 +47,7 @@ ARM-STM32 MCU Projects with EmbeddedC
 
 23- SpeedCCM_KEIL
 
+24- Adder_BitBanding_KEIL
+
+25- LinkerScript_KEIL
 
