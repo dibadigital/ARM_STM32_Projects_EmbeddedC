@@ -75,4 +75,6 @@ ARM-STM32 MCU Projects with EmbeddedC
 
 37- GPS_DAC_Call2Prayer_KEIL
 
-38- GPS_DAC_Call2Prayer_RTC_KEIL
+38- RTC_KEIL
+
+39- GPS_DAC_Call2Prayer_RTC_KEIL
