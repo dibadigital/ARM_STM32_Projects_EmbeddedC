@@ -1,0 +1,90 @@
+T3B34 000:007.013   SEGGER J-Link V7.92k Log File
+T3B34 000:007.279   DLL Compiled: Oct 18 2023 14:58:31
+T3B34 000:007.287   Logging started @ 2024-01-23 16:58
+T3B34 000:007.294   Process: C:\Keil_v5\UV4\UV4.exe
+T3B34 000:007.304 - 7.301ms
+T3B34 000:007.319 JLINK_SetWarnOutHandler(...)
+T3B34 000:007.326 - 0.009ms
+T3B34 000:007.335 JLINK_OpenEx(...)
+T3B34 000:010.658   Firmware: J-Link V9 compiled May  7 2021 16:26:12
+T3B34 000:011.269   Firmware: J-Link V9 compiled May  7 2021 16:26:12
+T3B34 000:011.443   Decompressing FW timestamp took 130 us
+T3B34 000:018.146   Hardware: V9.40
+T3B34 000:018.163   S/N: 59403169
+T3B34 000:018.172   OEM: SEGGER
+T3B34 000:018.181   Feature(s): RDI, GDB, FlashDL, FlashBP, JFlash
+T3B34 000:020.042   Bootloader: (Could not read)
+T3B34 000:021.331   TELNET listener socket opened on port 19021
+T3B34 000:021.936   WEBSRV WEBSRV_Init(): Starting webserver thread(s)
+T3B34 000:022.506   WEBSRV Webserver running on local port 19080
+T3B34 000:022.602   Looking for J-Link GUI Server exe at: C:\Keil_v5\ARM\Segger\JLinkGUIServer.exe
+T3B34 000:022.705   Looking for J-Link GUI Server exe at: C:\Program Files (x86)\SEGGER\JLink\JLinkGUIServer.exe
+T3B34 000:022.738   Forking J-Link GUI Server: C:\Program Files (x86)\SEGGER\JLink\JLinkGUIServer.exe
+T3B34 000:061.842   J-Link GUI Server info: "J-Link GUI server V7.22 "
+T3B34 000:062.134   J-Link GUI Server: Connection breakdown.
+T3B34 000:062.161 - 54.815ms returns "O.K."
+T3B34 000:062.179 JLINK_GetEmuCaps()
+T3B34 000:062.219 - 0.035ms returns 0xB9FF7BBF
+T3B34 000:062.231 JLINK_TIF_GetAvailable(...)
+T3B34 000:062.549 - 0.318ms
+T3B34 000:062.571 JLINK_SetErrorOutHandler(...)
+T3B34 000:062.578 - 0.007ms
+T3B34 000:062.614 JLINK_ExecCommand("ProjectFile = "D:\STM32_Advanced\J4\WR_MemI2C_ExtEEPROM\MDK-ARM\JLinkSettings.ini"", ...). 
+T3B34 000:112.431 - 49.819ms returns 0x00
+T3B34 000:115.865 JLINK_ExecCommand("Device = STM32F030C8Tx", ...). 
+T3B34 000:120.142   Device "STM32F030C8" selected.
+T3B34 000:120.494 - 4.606ms returns 0x00
+T3B34 000:120.510 JLINK_ExecCommand("DisableConnectionTimeout", ...). 
+T3B34 000:120.521 - 0.001ms returns 0x01
+T3B34 000:120.530 JLINK_GetHardwareVersion()
+T3B34 000:120.537 - 0.006ms returns 94000
+T3B34 000:120.552 JLINK_GetDLLVersion()
+T3B34 000:120.559 - 0.007ms returns 79211
+T3B34 000:120.567 JLINK_GetOEMString(...)
+T3B34 000:120.575 JLINK_GetFirmwareString(...)
+T3B34 000:120.582 - 0.006ms
+T3B34 000:129.572 JLINK_GetDLLVersion()
+T3B34 000:129.595 - 0.023ms returns 79211
+T3B34 000:129.604 JLINK_GetCompileDateTime()
+T3B34 000:129.610 - 0.006ms
+T3B34 000:132.571 JLINK_GetFirmwareString(...)
+T3B34 000:132.590 - 0.018ms
+T3B34 000:135.542 JLINK_GetHardwareVersion()
+T3B34 000:135.558 - 0.016ms returns 94000
+T3B34 000:138.530 JLINK_GetSN()
+T3B34 000:138.545 - 0.014ms returns 59403169
+T3B34 000:141.730 JLINK_GetOEMString(...)
+T3B34 000:147.506 JLINK_TIF_Select(JLINKARM_TIF_JTAG)
+T3B34 000:148.751 - 1.244ms returns 0x00
+T3B34 000:148.773 JLINK_HasError()
+T3B34 000:148.801 JLINK_SetSpeed(5000)
+T3B34 000:148.956 - 0.158ms
+T3B34 000:148.975 JLINK_GetIdData(pIdData)
+T3B34 000:152.837   InitTarget() start
+T3B34 000:152.857    J-Link Script File: Executing InitTarget()
+T3B34 000:158.551   JTAG selected. Identifying JTAG Chain...
+T3B34 000:163.968   TotalIRLen = ?, IRPrint = 0x..000000000000000000000000
+T3B34 000:169.112   Error: Scanning JTAG chain failed.
+T3B34 000:175.899   Can not attach to CPU. Trying connect under reset.
+T3B34 000:230.687   JTAG selected. Identifying JTAG Chain...
+T3B34 000:238.414   TotalIRLen = ?, IRPrint = 0x..000000000000000000000000
+T3B34 000:242.630   Error: Scanning JTAG chain failed.
+T3B34 000:245.683   Connecting to CPU via connect under reset failed.
+T3B34 000:302.821   InitTarget() end - Took 144ms
+T3B34 000:305.743   Connect failed. Resetting via Reset pin and trying again.
+T3B34 000:382.453   InitTarget() start
+T3B34 000:382.551    J-Link Script File: Executing InitTarget()
+T3B34 000:391.951   JTAG selected. Identifying JTAG Chain...
+T3B34 000:399.617   TotalIRLen = ?, IRPrint = 0x..000000000000000000000000
+T3B34 000:404.915   Error: Scanning JTAG chain failed.
+T3B34 000:409.120   Can not attach to CPU. Trying connect under reset.
+T3B34 000:464.246   JTAG selected. Identifying JTAG Chain...
+T3B34 000:469.626   TotalIRLen = ?, IRPrint = 0x..000000000000000000000000
+T3B34 000:473.934   Error: Scanning JTAG chain failed.
+T3B34 000:477.720   Connecting to CPU via connect under reset failed.
+T3B34 000:536.288   InitTarget() end - Took 146ms
+T3B34 000:536.338 - 387.362ms
+T3B34 003:645.116 JLINK_Close()
+T3B34 003:657.671 - 12.554ms
+T3B34 003:657.701   
+T3B34 003:657.708   Closed
