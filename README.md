@@ -82,3 +82,5 @@ ARM-STM32 MCU Projects with EmbeddedC
 40- HeartBeat_RTC_WakeUp_KEIL
 
 41- GSM_SIM800L_SMS_LED_KEIL
+
+42- WWDG_KEIL
