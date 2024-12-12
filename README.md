@@ -58,3 +58,5 @@ ARM-STM32 MCU Projects with EmbeddedC
 28- FloatFlash_KEIL
 
 29- Alignment_KEIL
+
+30- I2CExtEEPROM_KEIL
